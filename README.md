@@ -6,10 +6,13 @@ Download chip8 public rom on https://www.zophar.net/pdroms/chip8/chip-8-games-pa
 
 ## Emulator Descriptions:
 1.Run a rom on CHIP8.x86.exe or CHIP8.x64.exe (full screen)<br>
-    Usage on Windows CMD: CHIP8.x86.exe YourRomFilePATH or CHIP8.x64.exe YourRomFilePATH<br>
+    Usage on Windows CMD: 
+    CHIP8.x86.exe YourRomFilePATH or CHIP8.x64.exe YourRomFilePATH<br>
 2.Press ESC to quit chip8 emu<br>
 3.Key mapping:<br>
 <img width="1282" height="530" alt="image" src="https://github.com/user-attachments/assets/2d2a9eb0-2090-4e95-a1f0-427aa2113f6a" />
+### Test rom(test_opcode.ch8) passed
+![chip8 test sample](https://github.com/user-attachments/assets/8ca9563c-f3f8-4ca1-b714-d0836e90c465)
 
 ### BRIX game example
 ![chip8 sample](https://github.com/user-attachments/assets/5ddffe72-b3a3-4ae4-8da1-fcfbed5bee49)
